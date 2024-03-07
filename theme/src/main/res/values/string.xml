@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="room">ROOM</string>
+    <string name="port">PORT</string>
+    <string name="ip_address">IP ADDRESS</string>
+    <string name="welcome">WELCOME</string>
+    <string name="login">LOGIN</string>
+    <string name="iptv">IPTV</string>
+    <string name="iptv_empty">IP cannot be empty</string>
+    <string name="iptv_invalid">That\'s not a valid IP Address</string>
+    <string name="port_empty">Port cannot be empty</string>
+    <string name="room_empty">Room cannot be empty</string>
+    <string name="unknown_error">Unknown error, please try again later!</string>
+</resources>
